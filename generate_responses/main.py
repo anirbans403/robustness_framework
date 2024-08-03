@@ -14,7 +14,7 @@ question_columns = [
     "s2p_sent",
     "s3p_sent",
 ]
-models = ["gpt4"]
+models = ["gpt4"] # ["gpt4", "gpt-35-turbo-16k", "gpt-4-turbo", "gemini-1-pro", "gemini-15-pro", "gemini-15-flash"]
 
 
 def get_responses(row):
