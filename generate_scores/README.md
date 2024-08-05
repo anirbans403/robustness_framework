@@ -15,4 +15,4 @@ This folder contains code to generate hallucination scores for LLM responses for
     * This file contains the original data with additional columns appended to each perturbed response column (e.g., `c1p_sent_<model-name>_response_score`). These new columns store the corresponding hallucination score.
 
 ### Note
-Version for model `vectara/hallucination_evaluation_model` ssed for our analysis - [hhem-1.0-open](https://huggingface.co/vectara/hallucination_evaluation_model/tree/hhem-1.0-open)
+Version for model `vectara/hallucination_evaluation_model` used for our analysis - [hhem-1.0-open](https://huggingface.co/vectara/hallucination_evaluation_model/tree/hhem-1.0-open)
