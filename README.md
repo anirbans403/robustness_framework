@@ -1,6 +1,6 @@
 # **You Believe Your LLM is Not Delusional? Think Again!**
 
-This repository contains the code accompanying our paper titled **"You Believe Your LLM is Not Delusional? Think Again! A Study of LLM Hallucination on Foundation Models under Perturbation,"** which has been submitted to [CODS-COMAD Dec'24](https://cods-comad.in/) and is currently under review.
+This repository contains the code accompanying our paper titled **"You Believe Your LLM is Not Delusional? Think Again! A Study of LLM Hallucination on Foundation Models under Perturbation,"** which is currently under review.
 
 ## **Overview**
 
